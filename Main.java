@@ -3,8 +3,7 @@ import java.io.IOException;
 import java.util.*;
 
 public class Main {
-    private String username;
-    private String password;
+  
     private static CustomerFromuser customer = new CustomerFromuser();
     private static AdminFromUser admin = new AdminFromUser();
 
